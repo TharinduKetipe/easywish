@@ -1,0 +1,2 @@
+include ':fbtest1'
+include ':libraries:facebook', ':fbtest1'
